@@ -1,5 +1,5 @@
 import requests
-# c238409a7c221a7791840abf4cd358f4
+# 
 # Your OpenWeatherMap API key
 api_key = "1" #'your_api_key'
 # City for which you want the weather
